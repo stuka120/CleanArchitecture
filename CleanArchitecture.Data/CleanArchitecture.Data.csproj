@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CleanArchitecture.Service2\CleanArchitecture.Service2.csproj" />
+      <ProjectReference Include="..\CleanArchitecture.Service\CleanArchitecture.Service.csproj" />
+    </ItemGroup>
+
+</Project>
